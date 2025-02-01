@@ -15,7 +15,7 @@ In today's fast-paced business world, making genuine connections can be challeng
 
 ---
 
-## ✅ Our Solution
+## ✅ My Solution
 **Network Ninja** addresses these challenges by providing **instant, AI-powered insights** about professional contacts. Simply enter a name, and our application will:
 
 🔍 **Locate LinkedIn Profiles** – Quickly find the most relevant LinkedIn profile for your contact  
