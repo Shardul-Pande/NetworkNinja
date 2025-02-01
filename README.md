@@ -57,35 +57,31 @@ Ensure you have the following before proceeding:
 ### **📥 Setup**
 
 #### **1️⃣ Clone the repository**
-```bash
+
 [git clone https://github.com/Shardul-Pandenetwork-ninja.git](https://github.com/Shardul-Pande/NetworkNinja.git)
 cd network-ninja
+
 2️⃣ Create and activate a virtual environment
-bash
-Copy
-Edit
+
 python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
 3️⃣ Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
 4️⃣ Create a .env file in the project root
+
 Add the following keys inside .env:
 
-ini
-Copy
-Edit
 PROXYCURL_API_KEY=your_proxycurl_key
 SERPAPI_API_KEY=your_serpapi_key
 AWS_ACCESS_KEY_ID=your_aws_access_key
 AWS_SECRET_ACCESS_KEY=your_aws_secret_key
 AWS_DEFAULT_REGION=your_aws_region
+
 5️⃣ Launch the application
-bash
-Copy
-Edit
+
 streamlit run app.py
 🎯 Usage
 1️⃣ Enter the name of the professional you want to research
