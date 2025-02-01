@@ -58,7 +58,7 @@ Ensure you have the following before proceeding:
 
 #### **1️⃣ Clone the repository**
 ```bash
-git clone https://github.com/Shardul-Pandenetwork-ninja.git
+[git clone https://github.com/Shardul-Pandenetwork-ninja.git](https://github.com/Shardul-Pande/NetworkNinja.git)
 cd network-ninja
 2️⃣ Create and activate a virtual environment
 bash
