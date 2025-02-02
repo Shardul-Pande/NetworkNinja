@@ -38,11 +38,11 @@ def ice_break_with(name: str):
 
 def main():
     
-    st.title('Network Ninja: The Power of Ice-Breakers 💼✨')
+    st.title('Network Ninja: Connect easily now 💼✨')
     st.write('An app that uses Amazon Bedrock and LangChain to create summaries based on their social media profile. 🚀')
 
     st.sidebar.header("🔎 Enter the person's details")
-    name = st.sidebar.text_input("Name (e.g., 'Andy Jassy Amazon'):")
+    name = st.sidebar.text_input("Name (e.g., 'Jeff nguyen Amazon'):")
 
     if st.sidebar.button('Get Summary'):
         with st.spinner('Fetching LinkedIn data and creating summary... 🔄'):
