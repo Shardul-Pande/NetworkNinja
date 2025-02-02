@@ -38,7 +38,7 @@ def ice_break_with(name: str):
 
 def main():
     
-    st.title('Building Bonds: The Power of Ice-Breakers 💼✨')
+    st.title('Network Ninja: The Power of Ice-Breakers 💼✨')
     st.write('An app that uses Amazon Bedrock and LangChain to create summaries based on their social media profile. 🚀')
 
     st.sidebar.header("🔎 Enter the person's details")
